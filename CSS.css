@@ -58,14 +58,3 @@
 	 font-size: xx-large;
 	 font-weight: bold;
 }
-body{
-	 width: 840px;
-	 margin-left: 10px;
-	 margin-right: 10px;
-	 border-width: 2px;
-	 border-style: double;
-	 border-color: grey;
-	 border-radius: 5px;
-	 padding-left: 36px;
-	 padding-right: 36px;
-}
